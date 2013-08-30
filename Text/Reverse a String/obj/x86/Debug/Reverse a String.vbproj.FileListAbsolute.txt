@@ -1,0 +1,10 @@
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Reverse a String\bin\Debug\Reverse a String.exe
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Reverse a String\bin\Debug\Reverse a String.pdb
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Reverse a String\bin\Debug\Reverse a String.xml
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Reverse a String\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Reverse a String\obj\x86\Debug\Reverse_a_String.Resources.resources
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Reverse a String\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Reverse a String\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Reverse a String\obj\x86\Debug\Reverse a String.exe
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Reverse a String\obj\x86\Debug\Reverse a String.xml
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Reverse a String\obj\x86\Debug\Reverse a String.pdb

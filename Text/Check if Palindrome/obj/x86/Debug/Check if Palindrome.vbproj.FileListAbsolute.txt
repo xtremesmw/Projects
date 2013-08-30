@@ -1,0 +1,10 @@
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Check if Palindrome\bin\Debug\Check if Palindrome.exe
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Check if Palindrome\bin\Debug\Check if Palindrome.pdb
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Check if Palindrome\bin\Debug\Check if Palindrome.xml
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Check if Palindrome\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Check if Palindrome\obj\x86\Debug\Check_if_Palindrome.Resources.resources
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Check if Palindrome\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Check if Palindrome\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Check if Palindrome\obj\x86\Debug\Check if Palindrome.exe
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Check if Palindrome\obj\x86\Debug\Check if Palindrome.xml
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Check if Palindrome\obj\x86\Debug\Check if Palindrome.pdb

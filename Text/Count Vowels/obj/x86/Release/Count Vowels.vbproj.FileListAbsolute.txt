@@ -1,0 +1,10 @@
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Count Vowels\bin\Release\Count Vowels.exe
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Count Vowels\bin\Release\Count Vowels.pdb
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Count Vowels\bin\Release\Count Vowels.xml
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Count Vowels\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Count Vowels\obj\x86\Release\Count_Vowels.Resources.resources
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Count Vowels\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Count Vowels\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Count Vowels\obj\x86\Release\Count Vowels.exe
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Count Vowels\obj\x86\Release\Count Vowels.xml
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Count Vowels\obj\x86\Release\Count Vowels.pdb
