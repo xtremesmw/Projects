@@ -1,0 +1,10 @@
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Find PI to the Nth Digit\bin\Debug\Find PI to the Nth Digit.exe
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Find PI to the Nth Digit\bin\Debug\Find PI to the Nth Digit.pdb
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Find PI to the Nth Digit\bin\Debug\Find PI to the Nth Digit.xml
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Find PI to the Nth Digit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Find PI to the Nth Digit\obj\x86\Debug\Find_PI_to_the_Nth_Digit.Resources.resources
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Find PI to the Nth Digit\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Find PI to the Nth Digit\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Find PI to the Nth Digit\obj\x86\Debug\Find PI to the Nth Digit.exe
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Find PI to the Nth Digit\obj\x86\Debug\Find PI to the Nth Digit.xml
+C:\Users\Neethan\Documents\GitHub\Projects\Text\Find PI to the Nth Digit\obj\x86\Debug\Find PI to the Nth Digit.pdb
